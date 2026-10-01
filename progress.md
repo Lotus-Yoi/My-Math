@@ -126,9 +126,9 @@
 
 公式：
 
-$$
+```math
 \left[\int_{g(x)}^{h(x)}f(t)dt\right]'=f(h(x))h'(x)-f(g(x))g'(x)
-$$
+```
 
 当前掌握特点：
 
@@ -193,19 +193,19 @@ $$
 
 已学习：
 
-$$
+```math
 x=r\cos\theta
-$$
+```
 
-$$
+```math
 y=r\sin\theta
-$$
+```
 
 面积元素：
 
-$$
+```math
 d\sigma=rdrd\theta
-$$
+```
 
 掌握：
 
